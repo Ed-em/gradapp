@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Catalog design: https://docs.google.com/document/d/1FiThD1tGjB7Lv05RQdMch26M4bLHsQNwZdjUdZAya-o/edit
 
-Things you may want to cover:
+table definition: https://docs.google.com/document/d/1nm6F6B1iOVPs_A05sG3-gO74L6K0fm-9HIpuOUTMDfg/edit
 
-* Ruby version
+Screen transition diagram: https://drive.google.com/file/d/11EIPn8m2BSJJoMpMCFqNo-4pBnn413Xs/view?usp=sharing
 
-* System dependencies
+Screen wire frame: https://cacoo.com/diagrams/KNizHA7goMglTXpx/87F54
 
-* Configuration
+ERD flowchat: https://drive.google.com/file/d/1nCHTNKJABl_LLy3-r4uBKlkOjOZCh4c7/view?usp=sharing
 
-* Database creation
+Gems: Devise, carrierwave, mini_magick, searchkick, dotenv-rails, omniauth, omniauth-github, paperclip
 
-* Database initialization
+README Gradapp offers a platform to review African movies
 
-* How to run the test suite
+Concept Cashew
 
-* Services (job queues, cache servers, search engines, etc.)
+Version Ruby 2.6.5 Rails 6.1.3
 
-* Deployment instructions
-
-* ...
+Functions list
+Login function, user registration function (name, email, password), Review, Rating, comment, index of movies
