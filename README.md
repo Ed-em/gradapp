@@ -5,19 +5,20 @@ This simple web application is developed in the intention of giving a function t
 
 Functions
 
-Create Users (user)
-Edit/Delete Users (user)
-Create Users (restaurant details)
-User View Function
-Login Function
-Pagination function
-Search function
-reviews function
-rating function
+Functions
+- Create Users (user)
+- Edit/Delete Users (user)
+- Create Users (restaurant details)
+- User View Function
+- Login Function
+- Pagination function
+- Search function
+- reviews function
+- rating function
 
 Catalog design: https://docs.google.com/document/d/1FiThD1tGjB7Lv05RQdMch26M4bLHsQNwZdjUdZAya-o/edit?usp=sharing
 
-table definition: https://docs.google.com/document/d/1nm6F6B1iOVPs_A05sG3-gO74L6K0fm-9HIpuOUTMDfg/edit
+table definition: https://docs.google.com/spreadsheets/d/1cG97cTf1VO_kP6lYIfp1aWI5A-MAUnnUkSfsFSQxkfQ/edit?usp=sharing
 
 Screen transition diagram: https://drive.google.com/file/d/11EIPn8m2BSJJoMpMCFqNo-4pBnn413Xs/view?usp=sharing
 
