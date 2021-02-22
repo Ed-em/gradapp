@@ -1,6 +1,21 @@
 # README
 
-Catalog design: https://docs.google.com/document/d/1FiThD1tGjB7Lv05RQdMch26M4bLHsQNwZdjUdZAya-o/edit
+Overview
+This simple web application is developed in the intention of giving a function to the users to review movies and TV shows.This application has a function where users can create a user account and sign up for services to view others users review and also user can Create, Read, Update, and Delete reviews of movies or TV shows they've seen. The user can also create their favorite movies list.
+
+Functions
+
+Create Users (user)
+Edit/Delete Users (user)
+Create Users (restaurant details)
+User View Function
+Login Function
+Pagination function
+Search function
+reviews function
+rating function
+
+Catalog design: https://docs.google.com/document/d/1FiThD1tGjB7Lv05RQdMch26M4bLHsQNwZdjUdZAya-o/edit?usp=sharing
 
 table definition: https://docs.google.com/document/d/1nm6F6B1iOVPs_A05sG3-gO74L6K0fm-9HIpuOUTMDfg/edit
 
