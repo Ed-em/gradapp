@@ -3,12 +3,12 @@
 Overview
 This simple web application is developed in the intention of giving a function to the users to review movies and TV shows.This application has a function where users can create a user account and sign up for services to view others users review and also user can Create, Read, Update, and Delete reviews of movies or TV shows they've seen. The user can also create their favorite movies list.
 
-Functions
+Version Ruby 2.6.5 Rails 6.1.3
 
 Functions
 - Create Users (user)
 - Edit/Delete Users (user)
-- Create Users (restaurant details)
+- Create Users (movie details)
 - User View Function
 - Login Function
 - Pagination function
@@ -31,8 +31,3 @@ Gems: Devise, carrierwave, mini_magick, searchkick, dotenv-rails, omniauth, omni
 README Gradapp offers a platform to review African movies
 
 Concept Cashew
-
-Version Ruby 2.6.5 Rails 6.1.3
-
-Functions list
-Login function, user registration function (name, email, password), Review, Rating, comment, index of movies
